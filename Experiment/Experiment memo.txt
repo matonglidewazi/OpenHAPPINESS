@@ -1,0 +1,13 @@
+file open flow
+
+
+Processing
+	openBCI
+	opensketch_10_26
+Output
+	documents organization *2
+	22*8 15Hz (?)
+	
+webinator
+
+交接？如何操作使用？
